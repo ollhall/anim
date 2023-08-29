@@ -1,0 +1,32 @@
+html{
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after{
+  box-sizing: inherit;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+}
+
+img{
+  max-width: 100%;
+}
+.animation-container1{
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+}
+.animation-container2{
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+}
